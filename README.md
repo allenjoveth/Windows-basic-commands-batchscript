@@ -36,7 +36,7 @@ List the contents of the "MyLab" directory.
 cd %userprofile%\Desktop\MyLab
 
 ![output2](https://github.com/allenjoveth/Windows-basic-commands-batchscript/assets/139422287/fd535bd5-f21c-4288-952b-c29738008fb0)
-![output3](https://github.com/allenjoveth/Windows-basic-commands-batchscript/assets/139422287/c1249336-a9d1-416e-9e64-f955b3c80f0b)
+
 
 
 
