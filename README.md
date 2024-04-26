@@ -57,8 +57,6 @@ mkdir %userprofile%\Desktop\Backup
 mkdir %userprofile%\Desktop\Backup
 
 ![output5](https://github.com/allenjoveth/Windows-basic-commands-batchscript/assets/139422287/04e0a3b1-47e2-4e2c-881a-6898a4154cc2)
-![output6](https://github.com/allenjoveth/Windows-basic-commands-batchscript/assets/139422287/50cb1128-e47f-4dc2-9c5e-acbe6f94945d)
-
 
 
 ## COMMAND AND OUTPUT
