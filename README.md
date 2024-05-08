@@ -31,9 +31,10 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "MyLab" on the desktop.
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+![WhatsApp Image 2024-05-08 at 15 17 42_29f92c0f](https://github.com/allenjoveth/Windows-basic-commands-batchscript/assets/139422287/c64c46fa-1396-4ac0-a7cd-f7d3d3777eb3)
 
 List the contents of the "MyLab" directory.cd %userprofile%\Desktop\MyLab
-![WhatsApp Image 2024-05-08 at 15 18 33_848ccecc](https://github.com/MOHAMEDAAKIFASRAR/Windows-basic-commands-batchscript/assets/148514683/a9f97f1d-a6ad-4ba3-b183-eaaa79e2e889)
+![WhatsApp Image 2024-05-08 at 15 18 33_848ccecc](https://github.com/MOHAMEDAAKIFASRAR/Windows-basic-
 
 
 ## COMMAND AND OUTPUT
